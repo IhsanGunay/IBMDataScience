@@ -1,0 +1,4 @@
+*.csv
+creds.json
+
+.ipynb_checkpoints
